@@ -1,0 +1,14 @@
+.list ul li{
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+.list1 ul li{
+  display: block;
+  padding: 5px;
+  margin-left: 15px;
+  text-decoration: none;
+  
+}
